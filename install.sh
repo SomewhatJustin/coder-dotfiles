@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to the project directory
-cd telemetry-dashboard
+cd /home/coder/data-takehome/telemetry-dashboard
 
 # Install npm dependencies
 npm install
